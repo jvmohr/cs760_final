@@ -1,11 +1,10 @@
-# cs760_final
-Final for CS 760 - F20 (Machine Learning)
+# CS 760 Final
+Final for CS 760 - F20 (Machine Learning) at UW-Madison
 
 ### Files
 * Data Preprocessing.ipynb - cleaning and combining data; generates joined.csv (just over 123 MB)
 * Fires Visualization and ML Exploration.ipynb - exploring that data and trying some initial ML models
 * Final ML.ipynb - final ML models that generated results found in paper
-* ml.py - implementations of KNN and Random Forest - not used in project
 * CS_760_Final.pdf - pdf of final report
 * images folder - contains images used in report
 
